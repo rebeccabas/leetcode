@@ -5,5 +5,5 @@ class Solution(object):
         :type t: int
         :rtype: int
         """
-        return (num+(2*t))
+        return (num+t+t)
         
